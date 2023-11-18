@@ -1,0 +1,5 @@
+config*
+/config*
+log.txt
+nohup.out
+Trades.xlsx
